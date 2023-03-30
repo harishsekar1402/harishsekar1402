@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harish Sekar</h1>
 <h3 align="center">A passionate Software Engineering Student</h3>
 <img align="right" alt="coding" width="200" src="https://t3.ftcdn.net/jpg/01/78/65/02/360_F_178650212_oePgGaIhKUhz0cIg2bLBGsFsdbWs5Xwj.jpg">
-<p align="left"> src="https://komarev.com/ghpvc/?username=harishsekar1402&label=Profile%20views&color=0e75b6&style=flat" alt="harishsekar1402" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harishsekar1402&label=Profile%20views&color=0e75b6&style=flat" alt="harishsekar1402" /> </p>
 
 - 🌱 I’m currently learning **React Native**
 
