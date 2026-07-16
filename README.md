@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Harish Sekar</h1>
-<h3 align="center">A passionate Software Engineering Student</h3>
+<h3 align="center">Agentic AI Developer</h3>
 <img align="right" alt="coding" width="200" style="border-radius: 20px" src="https://t3.ftcdn.net/jpg/01/78/65/02/360_F_178650212_oePgGaIhKUhz0cIg2bLBGsFsdbWs5Xwj.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harishsekar1402&label=Profile%20views&color=0e75b6&style=flat" alt="harishsekar1402" /> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m working on **Multi agent systems**
 
 - 📄 Know about my experiences [https://harishsekar1402.github.io/Resume/](https://harishsekar1402.github.io/Resume/)
 
